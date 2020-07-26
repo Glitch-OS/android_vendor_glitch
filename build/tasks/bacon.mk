@@ -16,7 +16,7 @@
 # -----------------------------------------------------------------
 # Lineage OTA update package
 
-LINEAGE_TARGET_PACKAGE := $(PRODUCT_OUT)/glitch-$(LINEAGE_VERSION).zip
+LINEAGE_TARGET_PACKAGE := $(PRODUCT_OUT)/glitch-$(GLITCH_VERSION).zip
 
 .PHONY: bacon
 bacon: $(INTERNAL_OTA_PACKAGE_TARGET)
