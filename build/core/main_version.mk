@@ -7,7 +7,7 @@ endif
 # GlitchO̔̔҉̛͞S͐͗ System Version
 ADDITIONAL_BUILD_PROPERTIES += \
     ro.lineage.version=$(GLITCH_VERSION) \
-    ro.lineage.releasetype=$(LINEAGE_BUILDTYPE) \
+    ro.lineage.releasetype=$(CUSTOM_BUILD_TYPE) \
     ro.lineage.build.version=$(PRODUCT_VERSION_MAJOR).$(PRODUCT_VERSION_MINOR) \
     ro.modversion=$(GLITCH_VERSION) \
     ro.lineagelegal.url=https://lineageos.org/legal
