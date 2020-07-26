@@ -4,7 +4,7 @@ ADDITIONAL_BUILD_PROPERTIES += \
     ro.build.fingerprint=$(BUILD_FINGERPRINT)
 endif
 
-# LineageOS System Version
+# GlitchO̔̔҉̛͞S͐͗ System Version
 ADDITIONAL_BUILD_PROPERTIES += \
     ro.lineage.version=$(LINEAGE_VERSION) \
     ro.lineage.releasetype=$(LINEAGE_BUILDTYPE) \
@@ -16,10 +16,10 @@ ADDITIONAL_BUILD_PROPERTIES += \
 ADDITIONAL_BUILD_PROPERTIES += \
     ro.lineage.display.version=$(LINEAGE_DISPLAY_VERSION)
 
-# LineageOS Platform SDK Version
+# GlitchO̔̔҉̛͞S͐͗ Platform SDK Version
 ADDITIONAL_BUILD_PROPERTIES += \
     ro.lineage.build.version.plat.sdk=$(LINEAGE_PLATFORM_SDK_VERSION)
 
-# LineageOS Platform Internal Version
+# GlitchO̔̔҉̛͞S͐͗ Platform Internal Version
 ADDITIONAL_BUILD_PROPERTIES += \
     ro.lineage.build.version.plat.rev=$(LINEAGE_PLATFORM_REV)
